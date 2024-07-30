@@ -1,0 +1,22 @@
+{
+    "React Fragment": {
+      "prefix": "rfrag",
+      "body": [
+        "React.Fragment",
+        "<React.Fragment>",
+        "  $1",
+        "</React.Fragment>"
+      ],
+      "description": "Insert a React Fragment"
+    },
+    "React Fragment Shorthand": {
+      "prefix": "frag",
+      "body": [
+        "<>",
+        "  $1",
+        "</>"
+      ],
+      "description": "Insert a React Fragment Shorthand"
+    }
+  }
+  
